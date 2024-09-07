@@ -1,5 +1,7 @@
 # product-star-java
 Git Examples UPDATED
 
-Updeted 1!
-Updeted 2!
+Updated 1!
+Updated 2!
+Updated 3!
+
